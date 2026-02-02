@@ -1,40 +1,37 @@
 # Global Retail Sales Analysis - Strategic Data Engineering (€9.8M)
 
 ![Global Sales Dashboard](IMG_4725.jpg)
-http
- 🔗 **[View Interactive Looker Studio Dashboard](https://lookerstudio.google.com/reporting/d5f6a21d-996f-4675-b3d2-76d388514961)**
+
+🔗 **[View Interactive Looker Studio Dashboard](https://lookerstudio.google.com/reporting/d5f6a21d-996f-4675-b3d2-76d388514961)**
+
+---
 
 ## Executive Summary (English)
-**Turning 500k+ Raw Transactions into Strategic Profit**
-* **Data Engineering Scale:** Processed **541,909 raw records** from an international retail enterprise. 
-* **The Cleaning Process:** Used **Python (Pandas)** to eliminate **135,080 inconsistent rows** (25% noise reduction), resulting in a high-integrity dataset of **406,829 validated transactions**.
-* **Architecture:** Implemented a **Relational SQL Model** to split the "dirty data" into three optimized tables: *Customers, Products, and Sales*.
-* **Business Insights:** The analysis revealed a total revenue of **€9.8 Million**. 
-* **Strategic Solution:** Identified that "Anonymous Customers" represent a massive revenue share. I proposed a **Lead Magnet Strategy** to Mr. Brown: offering digital interior design guides to capture emails and convert anonymous buyers into identified, loyal customers.
+**From 541k Raw Records to Strategic Business Intelligence**
+* **Data Engineering:** Processed **541,909 raw records**. I performed deep cleaning, removing over **135,000 inconsistent rows (25% noise reduction)**, resulting in **406,829 validated transactions**.
+* **Analysis & Results:** Identified the **Top 5 Countries**, the **5 "Top Killer" Products**, and the **20 High-Value Customers** contributing to a total revenue of **€9.8 Million**.
+* **The "Anonymous" Challenge:** Analysis revealed a high volume of anonymous sales. I proposed a **Lead Magnet & Newsletter Strategy** to Mr. Brown: offering value (interior design guides) in exchange for emails to track and convert anonymous buyers into loyal clients.
+* **Resources:** Explore the **Python (.ipynb) file** for the full cleaning logic and the **CSV files** for the final cleaned datasets and top results.
 
 ---
 
 ## 🇮🇹 Analisi Strategica e Ingegneria dei Dati (Italiano)
-**Trasformare 500k+ Transazioni Grezze in Profitto Strategico**
-* **Ingegneria dei Dati:** Analisi di **541.909 record grezzi**. 
-* **Processo di Pulizia:** Utilizzo di **Python (Pandas)** per rimuovere **135.080 righe inconsistenti** (riduzione del 25% del rumore), isolando **406.829 transazioni validate**.
-* **Architettura:** Progettazione di un **Modello Relazionale SQL** per dividere la "tabella sporca" in tre tabelle ottimizzate: *Clienti, Prodotti e Vendite*.
-* **Risultati di Business:** L'analisi ha confermato un fatturato totale di **9,8 Milioni di Euro**.
-* **Soluzione Strategica:** Ho rilevato che i "Clienti Anonimi" costituiscono una quota significativa delle vendite. Ho proposto a Mr. Brown una **Strategia di Lead Magnet**: l'invio di guide digitali sull'arredamento per catturare le email e trasformare gli acquirenti anonimi in clienti fidelizzati.
+**Da 541k Record Grezzi alla Business Intelligence Strategica**
+* **Data Engineering:** Ho elaborato **541.909 record grezzi**. Ho effettuato una pulizia profonda eliminando oltre **135.000 righe inconsistenti (riduzione del 25% del rumore)**, isolando **406.829 transazioni validate**.
+* **Analisi e Risultati:** Ho estratto i **Top 5 Paesi**, i **5 Prodotti "Top Killer"** e i **20 Migliori Clienti** che hanno generato un fatturato totale di **9,8 Milioni di Euro**.
+* **La Sfida dei "Clienti Anonimi":** L'analisi ha mostrato una perdita di dati preziosi a causa degli acquisti anonimi. Ho proposto a Mr. Brown una **Strategia di Lead Magnet & Newsletter**: offrire contenuti di valore (guide all'arredamento) per ottenere le email e trasformare i clienti anonimi in contatti fidelizzati.
+* **Consulta i File:** Trovi nel repository il **file Python (.ipynb)** con tutto il codice di pulizia e i **file CSV** con i dati finali e i risultati delle Top 5.
 
 ---
 
 ## 🇫🇷 Analyse Stratégique et Ingénierie des Données (Français)
-**Transformer 500k+ Transactions Brutes en Profit Stratégique**
-* **Ingénierie des Données :** Analyse de **541 909 enregistrements bruts**.
-* **Nettoyage :** Utilisation de **Python (Pandas)** pour supprimer **135 080 lignes incohérentes** (réduction de 25% du bruit), isolant **406 829 transactions validées**.
-* **Architecture :** Implémentation d'un **Modèle SQL Relationnel** pour diviser les données en trois tables optimisées : *Clients, Produits et Ventes*.
-* **Résultats Business :** L'analyse a confirmé un chiffre d'affaires de **9,8 Millions d'Euros**.
-* **Vision Stratégique :** J'ai identifié que les "Clients Anonymes" représentent une part importante du CA. J'ai proposé à Mr. Brown une **Stratégie de Lead Magnet** : offrir des guides déco numériques pour capturer les e-mails et fidéliser la clientèle.
+**De 541k Enregistrements Bruts à l'Intelligence Stratégique**
+* **Ingénierie des Données :** Traitement de **541 909 enregistrements**. Nettoyage de **135 000 lignes (réduction de 25%)** pour obtenir **406 829 transactions validées**.
+* **Résultats :** Identification des **5 pays leaders**, des **5 produits "Top Killer"** et des **20 meilleurs clients** pour un CA de **9,8 M€**.
+* **Stratégie :** Proposition d'une **Stratégie de Lead Magnet & Newsletter** pour convertir les clients anonymes en clients fidèles et identifiés.
+* **Fichiers :** Le **script Python** et les **fichiers CSV** sont disponibles pour consultation.
 
 ---
 
 ## 🛠 Tech Stack
-* **Python (Pandas):** Data cleaning & Wrangling.
-* **SQL:** Database Architecture & Relational Modeling.
-* **Looker Studio:** Data Visualization & Business Intelligence.
+* **Python (Pandas)** | **SQL Architecture** | **Looker Studio**
