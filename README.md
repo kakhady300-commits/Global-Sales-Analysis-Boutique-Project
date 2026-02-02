@@ -1,10 +1,8 @@
 # Global Retail Sales Analysis - Strategic Data Engineering (€9.8M)
 
 ![Global Sales Dashboard](IMG_4725.jpg)
-
-🔗 **[View Interactive Looker Studio Dashboard]([INSERISCI_IL_TUO_LINK_QUI](https://lookerstudio.google.com/reporting/d5f6a21d-996f-4675-b3d2-76d388514961))**
-
----
+http
+ 🔗 **[View Interactive Looker Studio Dashboard](https://lookerstudio.google.com/reporting/d5f6a21d-996f-4675-b3d2-76d388514961)**
 
 ## Executive Summary (English)
 **Turning 500k+ Raw Transactions into Strategic Profit**
